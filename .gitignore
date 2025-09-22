@@ -1,2 +1,5 @@
 # Ignore large dataset
 data/metadata.csv
+
+# Ignore Python virtual environment
+venv/
